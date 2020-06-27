@@ -1,0 +1,30 @@
+.main{
+  border: 2px solid black;
+  width: 200px;
+  margin: 0px auto;
+  padding: 2px 2px;
+  background-color: black;
+}
+.result{
+  width: 100% !important;
+  background-color:white!important;
+  color: black;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.halfBtn{
+  width: 48%;
+  /* border: 1px solid greenyellow;
+  background-color: greenyellow; */
+  margin-top: 5px;
+  border-radius: 5px;
+  /* border: 1px solid black; */
+}
+.btn{
+  /* background-color: khaki; */
+  width: 40px;
+  margin: 2px 2px;
+  /* border: 1px solid black; */
+  border-radius: 8px;
+}
